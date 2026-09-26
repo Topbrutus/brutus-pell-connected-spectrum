@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Brutus-Pell Connected Spectrum: High-Precision Finite-Sample Study",
+    "upload_type": "dataset",
+    "description": "High-precision numerical data and reproducibility code for a pair-normalized connected interaction spectrum in the Brutus-Pell prime corridor p=72t^2+1. The archive includes 70-digit evaluations at X=2M,4M,8M for Q=199,997, a float64 precision-wall audit, finite-sample convergence diagnostics, and the first five-role ASTRAEUM verification artifact.",
+    "creators": [
+      {
+        "name": "St-Pierre, Gabriel"
+      }
+    ],
+    "keywords": [
+      "Pell sequence",
+      "rank of apparition",
+      "high precision",
+      "connected correlations",
+      "finite-sample analysis",
+      "reproducibility",
+      "Brutus-Pell",
+      "ASTRAEUM"
+    ],
+    "language": "eng",
+    "access_right": "open",
+    "version": "0.1.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/Topbrutus/brutus-pell-connected-spectrum",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://github.com/Topbrutus/brutus-control-plane",
+        "relation": "isReferencedBy",
+        "scheme": "url"
+      }
+    ],
+    "notes": "Finite-sample computational record. No asymptotic law, physical interpretation, or universal coefficient sign law is claimed."
+  }
+}
