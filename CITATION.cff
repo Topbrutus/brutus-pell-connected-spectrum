@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset and code, please cite this release."
+title: "Brutus-Pell Connected Spectrum: High-Precision Finite-Sample Study"
+type: dataset
+version: 0.1.0
+date-released: 2026-09-25
+authors:
+  - family-names: "St-Pierre"
+    given-names: "Gabriel"
+repository-code: "https://github.com/Topbrutus/brutus-pell-connected-spectrum"
+keywords:
+  - high precision
+  - connected correlations
+  - finite-sample analysis
+  - reproducibility
